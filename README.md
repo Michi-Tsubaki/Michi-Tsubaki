@@ -1,4 +1,4 @@
-ALL THE ITEMS ARE CLOSED DUE TO APPLYING A PATENT PERMISSION. SORRY.
+ALL THE ITEMS ARE CLOSED.
 
 <!---
 Michi-Tsubaki/Michi-Tsubaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

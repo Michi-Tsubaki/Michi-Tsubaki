@@ -1,6 +1,6 @@
-# Undergraduate student at UTokto
-### 22 years old engineer
-### Feel free to contact me anytime!👍
+## Undergraduate student at Dept. of Mecano-Informatics, UTokto
+### Software, Mechatronics, Robotics, Control
+### Feel free to contact me anytime!👍 (michi.tsubaki.tech@gmail.com)
 #
 ![Michi-Tsubaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michi-Tsubaki&show_icons=true&theme=vue-dark)
 

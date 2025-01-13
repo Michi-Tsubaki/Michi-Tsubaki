@@ -1,5 +1,5 @@
-# Backend Developer in Japan👋
-### 20 years old 
+# Undergraduate student at UTokto
+### 22 years old engineer
 ### Feel free to contact me anytime!👍
 #
 ![Michi-Tsubaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michi-Tsubaki&show_icons=true&theme=vue-dark)
@@ -13,10 +13,10 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,julia,lisp,ros,github,vscode,html,discord,matlab,slack" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,julia,latex,ros,R,matlab,github,emacs,vscode,html,discord,slack,gmail,X,instagram" /> <br /><br />
 
   ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
+  euslisp, commonlisp
   
 # NOW TRAINING
 

@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Michi-Tsubaki&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
+[![My Twitter Followers](https://badgen.net/twitter/follow/MT20107)](https://twitter.com/MT20107)
 
 
 # NOW TRAINING

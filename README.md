@@ -11,18 +11,9 @@
 [![My Twitter Followers](https://badgen.net/twitter/follow/MT20107)](https://twitter.com/MT20107)
 
 
-# NOW TRAINING
-
-<p align="left">
-<a href="https://twitter.com/[Foo]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
-<a href="[Foo_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[Foo_email]"/></a>
-</p>
-
-
-
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,julia,commonlisp,ros,github,vscode,html,discord,slack" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,julia,lisp,ros,github,vscode,html,discord,matlab,slack" /> <br /><br />
 
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.

@@ -13,7 +13,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,julia,latex,ros,R,matlab,github,emacs,vscode,html,discord,slack,gmail,X,instagram" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,julia,latex,ros,r,matlab,github,emacs,vscode,html,discord,gmail,x,instagram" /> <br /><br />
 
   ※Another skill and tools
   euslisp, commonlisp

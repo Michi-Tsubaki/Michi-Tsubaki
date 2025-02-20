@@ -1,4 +1,9 @@
-## Undergraduate student at Dept. of Mecano-Informatics, UTokto
+## Undergraduate student at Dept. of Mecano-Informatics, UTokyo
+
+Junior student in 2024-2025
+
+Proxima Texhnology part-time engineer
+
 ### Software, Mechatronics, Robotics, Control
 ### Feel free to contact me anytime!👍 (michi.tsubaki.tech@gmail.com)
 #
@@ -7,8 +12,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michi-Tsubaki&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Michi-Tsubaki&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![My Twitter Followers](https://badgen.net/twitter/follow/MT20107)](https://twitter.com/MT20107)
 
 
 # My Skill (Programming Languages, Frameworks and Tools)

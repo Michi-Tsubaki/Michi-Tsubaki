@@ -1,4 +1,4 @@
-## Undergraduate student at Dept. of Mecano-Informatics, UTokyo
+## Undergraduate student at Department of Mecano-Informatics, Faculty of Engineering, the University of Tokyo
 
 Junior student in 2024-2025
 

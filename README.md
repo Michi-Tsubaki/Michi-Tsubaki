@@ -1,8 +1,8 @@
-## Undergraduate student at Department of Mecano-Informatics, Faculty of Engineering, the University of Tokyo
+## Undergraduate student at Department of Mechano-Informatics, Faculty of Engineering, the University of Tokyo
 
 Junior student in 2024-2025
 
-Proxima Texhnology part-time engineer
+Proxima Technology part-time engineer (Julia software engineer）
 
 ### Software, Mechatronics, Robotics, Control
 ### Feel free to contact me anytime!👍 (michi.tsubaki.tech@gmail.com)

@@ -43,4 +43,9 @@ Proxima Technology part-time engineer (Julia software engineer）
 
 # 経路計画
 - マルチエージェントの確率的軌道最適化を3次元に拡張（Julia）
-https://github.com/Michi-Tsubaki/MultiAgentTrajectoryPlanning/tree/tsubaki/make-door-example-3d
+[リポジトリ](https://github.com/Michi-Tsubaki/MultiAgentTrajectoryPlanning/tree/tsubaki/make-door-example-3d)
+[ノートブック](https://htmlpreview.github.io/?https://github.com/Michi-Tsubaki/Michi-Tsubaki/blob/main/notebook/Multi-agent-in-3d-space.html)
+
+<img src="./img/Multi-agent-planning.gif">
+
+

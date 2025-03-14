@@ -48,4 +48,10 @@ Proxima Technology part-time engineer (Julia software engineer）
 
 <img src="./img/Multi-agent-planning.gif">
 
-
+# 数理最適化
+- JuMPのtutorial (Julia)
+【ノートブック】
+[LP(1)](https://michi-tsubaki.github.io/Michi-Tsubaki/notebook/JuMP-tutorial-LP-1.html)
+[LP(2)](https://michi-tsubaki.github.io/Michi-Tsubaki/notebook/JuMP-tutorial-LP-2.html)
+[QP(1)](https://michi-tsubaki.github.io/Michi-Tsubaki/notebook/JuMP-tutorial-QP-1.html)
+[QP(2)](https://michi-tsubaki.github.io/Michi-Tsubaki/notebook/JuMP-tutorial-QP-2.html)

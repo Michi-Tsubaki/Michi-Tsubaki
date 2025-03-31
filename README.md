@@ -4,12 +4,20 @@
 
 - Senior student (B4) in 2025-2026 @ [JSK Robotics Lab](http://www.jsk.t.u-tokyo.ac.jp).
 
-- Part-time software engineer @ Proxima Technology Inc.
+- Part-time software engineer @ [Proxima Technology Inc.](https://proxima-ai-tech.com)
 
 ## History
 
+- 2015- Eiko Gakuen Junior and Senior High School, Sophia School Corporation
+  - Eiko Physics Club (Captain) : [科学の甲子園全国大会(8th)](https://koushien.jst.go.jp/koushien/index.html) Second Prize
+  - [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc), [Team 5701](https://www.makuake.com/project/raijinbotics5/)
 
-### Control, Optimization, Mechatronics, Robotics
+- 2022- Natural Science I, College of Arts and Sciences, the University of Tokyo
+  
+- 2024- Department of Mechano-Informatics, Faculty of Engineering, the University of Tokyo
+
+## Interests
+- Control, Optimization, Mechatronics, Robotics
 
 ### Feel free to contact me anytime!👍
 

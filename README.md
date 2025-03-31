@@ -1,11 +1,22 @@
+# Michi-Tsubaki (Michitoshi Tsubaki)
+
 ## Undergraduate student at Department of Mechano-Informatics, Faculty of Engineering, the University of Tokyo
 
-Junior student in 2024-2025
+- Senior student (B4) in 2025-2026 @ [JSK Robotics Lab](http://www.jsk.t.u-tokyo.ac.jp).
 
-Proxima Technology part-time engineer (Julia software engineer）
+- Part-time software engineer @ Proxima Technology Inc.
 
-### Software, Mechatronics, Robotics, Control
-### Feel free to contact me anytime!👍 (michi.tsubaki.tech@gmail.com)
+## History
+
+
+### Control, Optimization, Mechatronics, Robotics
+
+### Feel free to contact me anytime!👍
+
+- **Email :** michi.tsubaki.tech@gmail.com
+
+- I will reply on weekdays. If you do not receive a reply in four days, please send me an email again!
+
 #
 ![Michi-Tsubaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michi-Tsubaki&show_icons=true&theme=vue-dark)
 
@@ -40,6 +51,10 @@ Proxima Technology part-time engineer (Julia software engineer）
     </h1>
   </div>
 <br><br><br>
+
+# Julia Packages
+
+
 
 # 経路計画
 - マルチエージェントの確率的軌道最適化を3次元に拡張（Julia）

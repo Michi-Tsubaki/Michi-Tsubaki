@@ -11,7 +11,7 @@
 
 ## Feel free to contact me anytime!👍
 
-- **Email :** michi.tsubaki.tech@gmail.com
+- **Email :** michi.tsubaki.tech@gmail.com, tsubaki@jsk.t.u-tokyo.ac.jp
 
 - I will reply on weekdays. If you do not receive a reply in four days, please send me an email again!
 

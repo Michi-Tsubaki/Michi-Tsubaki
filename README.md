@@ -2,7 +2,7 @@
 
 ## Undergraduate student at Department of Mechano-Informatics, Faculty of Engineering, the University of Tokyo
 
-- Senior student (B4) in 2025-2026 @ [JSK Robotics Lab](http://www.jsk.t.u-tokyo.ac.jp).
+- Undergraduate student (B4) in 2025-2026 @ [JSK Robotics Lab](http://www.jsk.t.u-tokyo.ac.jp).
 
 - Part-time software engineer @ [Proxima Technology Inc.](https://proxima-ai-tech.com)
 

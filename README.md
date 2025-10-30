@@ -1,7 +1,6 @@
 # Michi-Tsubaki (Michitoshi Tsubaki)
 
 ## Undergraduate student at JSK Robotics Lab. at Department of Mechano-Informatics, Faculty of Engineering, the University of Tokyo 
-
 ## Interests
 - Control, Optimization, Mechatronics, Robotics
 
@@ -31,3 +30,6 @@ ROS2, DualQuatUtils
 [LP(2)](https://michi-tsubaki.github.io/Michi-Tsubaki/notebook/JuMP-tutorial-LP-2.html)
 [QP(1)](https://michi-tsubaki.github.io/Michi-Tsubaki/notebook/JuMP-tutorial-QP-1.html)
 [QP(2)](https://michi-tsubaki.github.io/Michi-Tsubaki/notebook/JuMP-tutorial-QP-2.html)
+
+
+[![An image of @michitsubaki's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/michitsubaki)](https://holopin.io/@michitsubaki)

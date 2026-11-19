@@ -4,7 +4,9 @@
 ## Interests
 - Control, Optimization, Mechatronics, Robotics
 
-## GitHub Trophies
+## GitHub Stats
+
+![Michi-Tsubaki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michi-Tsubaki&show_icons=true&theme=graywhite&hide_border=true)
 
 [![GitHub Profile Trophy](https://github-profile-trophy-one-kappa.vercel.app/?username=Michi-Tsubaki)](https://github.com/ryo-ma/github-profile-trophy)
 
